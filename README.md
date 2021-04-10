@@ -1,1 +1,1 @@
-# Random-Walk_Model
+# Random-Walk-Model
